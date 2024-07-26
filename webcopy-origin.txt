@@ -1,0 +1,724 @@
+Uri: https://crypo.netlify.app/
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/404-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\404-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/404-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\404-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/assets/css/bootstrap.min.css
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://crypo.netlify.app/assets/css/ionicons.min.css
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://crypo.netlify.app/assets/css/jquery.mCustomScrollbar.min.css
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\css\jquery.mCustomScrollbar.min.css
+Content Type: text/css
+
+Uri: https://crypo.netlify.app/assets/css/style.css
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://crypo.netlify.app/assets/fonts/ionicons.eot?v=4.5.9-1
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\fonts\ionicons.eot
+Content Type: application/octet-stream
+
+Uri: https://crypo.netlify.app/assets/fonts/ionicons.svg?v=4.5.9-1
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/fonts/ionicons.ttf?v=4.5.9-1
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://crypo.netlify.app/assets/fonts/ionicons.woff2?v=4.5.9-1
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\fonts\ionicons.woff2
+Content Type: font/woff2
+
+Uri: https://crypo.netlify.app/assets/fonts/ionicons.woff?v=4.5.9-1
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\fonts\ionicons.woff
+Content Type: application/font-woff
+
+Uri: https://crypo.netlify.app/assets/img/avatar.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\avatar.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/img/favicon.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/1.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\1.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/10.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\10.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/11.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\11.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/12.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\12.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/13.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\13.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/14.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\14.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/15.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\15.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/16.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\16.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/17.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\17.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/18.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\18.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/2.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\2.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/3.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\3.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/4.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\4.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/5.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\5.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/6.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\6.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/7.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\7.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/8.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\8.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/icon/9.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\icon\9.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/landing/backup.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\landing\backup.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/img/landing/bank.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\landing\bank.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/img/landing/dash-preview-dark.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\landing\dash-preview-dark.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/landing/dash-preview.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\landing\dash-preview.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/assets/img/landing/managment.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\landing\managment.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/img/landing/stroge.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\landing\stroge.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/img/landing/sub-bg.jpg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\landing\sub-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://crypo.netlify.app/assets/img/landing/trade.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\landing\trade.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/img/landing/user.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\landing\user.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/img/logo-dark.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\logo-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/img/logo-light.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/img/qr-code-dark.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\qr-code-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/img/qr-code-light.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\img\qr-code-light.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/assets/js/amcharts-core.min.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\js\amcharts-core.min.js
+Content Type: application/javascript
+
+Uri: https://crypo.netlify.app/assets/js/amcharts.min.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\js\amcharts.min.js
+Content Type: application/javascript
+
+Uri: https://crypo.netlify.app/assets/js/bootstrap.min.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://crypo.netlify.app/assets/js/Chart.bundle.min.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\js\Chart.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://crypo.netlify.app/assets/js/custom.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://crypo.netlify.app/assets/js/jquery-3.4.1.min.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\js\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://crypo.netlify.app/assets/js/jquery.mCustomScrollbar.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\js\jquery.mCustomScrollbar.js
+Content Type: application/javascript
+
+Uri: https://crypo.netlify.app/assets/js/popper.min.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://crypo.netlify.app/cross-rates-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\cross-rates-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/cross-rates-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\cross-rates-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/exchange-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\exchange-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/exchange-dark-fluid
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\exchange-dark-fluid.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/exchange-dark-live-price
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\exchange-dark-live-price.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/exchange-dark-ticker
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\exchange-dark-ticker.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/exchange-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\exchange-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/exchange-light-fluid
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\exchange-light-fluid.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/exchange-light-live-price
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\exchange-light-live-price.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/exchange-light-ticker
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\exchange-light-ticker.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/heat-map-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\heat-map-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/heat-map-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\heat-map-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/landing-page-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\landing-page-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/landing-page-dark-two
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\landing-page-dark-two.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/landing-page-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\landing-page-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/landing-page-light-two
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\landing-page-light-two.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/market-capital-bar-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\market-capital-bar-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/market-capital-bar-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\market-capital-bar-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/market-capital-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\market-capital-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/market-capital-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\market-capital-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/market-crypto-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\market-crypto-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/market-crypto-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\market-crypto-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/market-overview-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\market-overview-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/market-overview-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\market-overview-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/market-screener-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\market-screener-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/market-screener-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\market-screener-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/markets-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\markets-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/markets-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\markets-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/preview/img/d-1.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-1.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-10.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-10.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-11.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-11.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-12.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-12.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-13.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-13.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-14.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-14.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-15.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-15.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-16.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-16.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-17.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-17.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-18.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-18.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-19.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-19.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-2.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-2.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-20.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-20.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-21.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-21.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-3.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-3.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-4.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-4.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-5.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-5.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-6.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-6.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-7.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-7.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-8.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-8.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/d-9.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\d-9.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/icon/1.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\1.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/10.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\10.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/11.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\11.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/12.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\12.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/13.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\13.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/14.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\14.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/15.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\15.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/16.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\16.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/2.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\2.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/3.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\3.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/4.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\4.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/5.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\5.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/6.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\6.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/7.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\7.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/8.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\8.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/9.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\9.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/icon/love.svg
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\icon\love.svg
+Content Type: image/svg+xml
+
+Uri: https://crypo.netlify.app/preview/img/l-1.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-1.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-10.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-10.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-11.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-11.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-12.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-12.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-13.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-13.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-14.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-14.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-15.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-15.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-16.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-16.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-17.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-17.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-18.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-18.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-19.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-19.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-2.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-2.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-20.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-20.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-21.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-21.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-3.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-3.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-4.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-4.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-5.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-5.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-6.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-6.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-7.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-7.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-8.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-8.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/l-9.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\l-9.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/landing-one-dark.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\landing-one-dark.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/landing-one-light.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\landing-one-light.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/landing-two-dark.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\landing-two-dark.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/img/landing-two-light.png
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\img\landing-two-light.png
+Content Type: image/png
+
+Uri: https://crypo.netlify.app/preview/preview.css
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\preview\preview.css
+Content Type: text/css
+
+Uri: https://crypo.netlify.app/reset-password-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\reset-password-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/reset-password-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\reset-password-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/settings-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\settings-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/settings-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\settings-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/settings-profile-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\settings-profile-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/settings-profile-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\settings-profile-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/settings-wallet-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\settings-wallet-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/settings-wallet-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\settings-wallet-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/signin-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\signin-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/signin-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\signin-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/signup-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\signup-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/signup-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\signup-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/symbol-info-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\symbol-info-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/symbol-info-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\symbol-info-light.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/technical-analysis-dark
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\technical-analysis-dark.html
+Content Type: text/html
+
+Uri: https://crypo.netlify.app/technical-analysis-light
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\technical-analysis-light.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Overpass:300,400,600,700&display=swap
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TbPpqP.ttf
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6G_TbPpqP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTbPpqP.ttf
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6IvTbPpqP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6ovPbPpqP.ttf
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6ovPbPpqP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpass/v13/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPbPpqP.ttf
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\s\overpass\v13\qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPbPpqP.ttf
+Content Type: font/ttf
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-forex-cross-rates.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-forex-cross-rates.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-forex-heat-map.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-forex-heat-map.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-hotlists.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-hotlists.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-market-overview.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-mini-symbol-overview.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-screener.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-screener.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-symbol-info.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-technical-analysis.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-ticker-tape.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-tickers.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-tickers.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-timeline.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\external-embedding\embed-widget-timeline.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/tv.js
+File Name: C:\Users\hi\Desktop\MARCOS\crypo.netlify.app\tv.js
+Content Type: text/javascript
+
