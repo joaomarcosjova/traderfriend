@@ -1,0 +1,75 @@
+.carousel-container {
+    width: 100%;
+    height: 60vh; /* Adjust height as needed */
+    overflow: hidden;
+    position: relative;
+    background-color: #fff;
+}
+
+.carousel-wrapper {
+    display: flex;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    white-space: nowrap;
+    overflow-x: auto; /* Allow horizontal scrolling */
+    cursor: grab; /* Default cursor */
+}
+
+.carousel-wrapper:active {
+    cursor: grabbing; /* Cursor while dragging */
+}
+
+.carousel {
+    display: flex;
+    height: 100%;
+    width: calc(100% * 2); /* Double the width for infinite effect */
+    animation: scroll-left 20s linear infinite;
+    flex-shrink: 0;
+}
+
+.carousel img {
+    height: 100%;
+    width: auto;
+    margin-right: 10px; /* Space between images */
+    object-fit: cover;
+}
+
+
+/* Keyframes to handle continuous scrolling */
+@keyframes scroll-left {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .carousel img {
+        width: 50%; /* Adjust for mobile view */
+    }
+}
+
+
+  /* rainbow effect styling for #Ktrade */
+  .rainbow {
+    background: linear-gradient(45deg, 
+    #ff0000, /* Vivid Red */
+    #ff6f00, /* Bright Orange */
+    #ffeb3b, /* Vivid Yellow */
+    #8bc34a, /* Bright Green */
+    #2196f3, /* Vivid Blue */
+    #3f51b5, /* Rich Indigo */
+    #9c27b0  /* Bright Violet */
+  ); /* Vibrant gradient colors */
+  -webkit-background-clip: text; /* Clip background to text */
+  -webkit-text-fill-color: transparent; /* Fill text with transparent color */
+  font-weight: bold; /* Ensure the text is bold */
+  font-size: 3em; /* Larger font size for emphasis */
+
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.8), /* Thicker outline */
+}
+  
