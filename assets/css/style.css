@@ -2,8 +2,35 @@
 @import url("bootstrap.min.css");
 @import url("ionicons.min.css");
 @import url("jquery.mCustomScrollbar.min.css");
+
+
+/* Regular weight */
+@font-face {
+    font-family: 'Roboto';
+    src: url('./assets/fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Bold weight */
+  @font-face {
+    font-family: 'Roboto';
+    src: url('./assets/fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  /* Black weight */
+  @font-face {
+    font-family: 'Roboto';
+    src: url('./assets/fonts/Roboto-Black.ttf') format('truetype');
+    font-weight: 900; /* Black is usually heavier, set to 900 */
+    font-style: normal;
+  }
+  */ /* this here was a mistake but is making the font bolder */  
+  
 body {
-    font-family: 'Overpass', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 14px;
     line-height: 1.5;
     color: #18214D;
@@ -253,6 +280,7 @@ tbody tr:hover {
 
 header nav a {
     color: #18214d;
+    font-family: 'Roboto';
 }
 
 header nav a:hover {
