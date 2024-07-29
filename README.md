@@ -32,12 +32,20 @@ kTrade is a web-based platform designed to provide advanced analysis tools for t
 kTrade is built using the following technologies:
 
 - **HTML5**: For structuring web content.
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - **CSS3**: For styling and layout.
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - **JavaScript**: For interactive elements and dynamic content.
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **jQuery**: For simplified DOM manipulation and event handling.
+  - ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 - **Bootstrap**: For responsive design and UI components.
+  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 - **Python**: For server-side logic and data processing.
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Firebase**: For real-time database, authentication, and hosting.
+  - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 
 ---
 
@@ -51,7 +59,10 @@ kTrade is built using the following technologies:
 
 ---
 
+
 ## Sign-Up Process
+
+![Sign-Up Page](assets/img/work-flow/1.png)
 
 To start using kTrade, you need to create an account. Follow these steps:
 
@@ -60,20 +71,22 @@ To start using kTrade, you need to create an account. Follow these steps:
 2. **Access the Sign-Up Page**:
    - Click on the "Sign Up" button located at the top-right corner of the home page.
 
-   ![Sign-Up Page](assets/img/work-flow/1.png)
+   ![Sign-Up Page](preview/img/l-17.png)
 
 3. **Complete the Form**:
    - Enter your full name, email address, and a secure password.
    - Accept the terms and conditions.
 
-   ![Sign-Up Form](assets/img/work-flow/2.png)
-
 4. **Verify Your Email**:
    - After submitting the form, you'll receive a confirmation email. Click the verification link to activate your account.
+
+
 
 ---
 
 ## Sign-In Process
+
+![Sign-In work-flow](assets/img/work-flow/2.png)
 
 After registration, log in to your kTrade account:
 
@@ -82,7 +95,7 @@ After registration, log in to your kTrade account:
 2. **Access the Sign-In Page**:
    - Click on the "Sign In" button at the top-right corner of the page.
 
-   ![Sign-In Page](preview/img/d-16.png)
+   ![Sign-In Page](preview/img/l-16.png)
 
 3. **Enter Your Credentials**:
    - Provide your registered email address and password.
@@ -94,20 +107,19 @@ After registration, log in to your kTrade account:
 
 ## Workflow Process
 
+   ![Work-flow](assets/img/work-flow/3.png)
+
+
 Once logged in, you can manage your trading activities:
 
 1. **Dashboard Overview**:
    - The dashboard provides an overview of your trading account, including real-time market data and portfolio information.
-
-   ![Work-flow](assets/img/work-flow/3.png)
 
 2. **Set Up Trading Strategies**:
    - Navigate to the "Strategies" section to create or modify trading strategies.
 
 3. **Analyze Market Data**:
    - Utilize built-in tools to analyze market trends, historical data, and trading signals.
-
-   ![Market Analysis](preview/img/d-12.png)
 
 4. **Execute Trades**:
    - Use the "Trade" tab to place and manage trades directly from the platform.
@@ -142,7 +154,7 @@ kTrade includes a powerful technical analysis system that provides actionable in
 3. **Signal Display**:
    - Recommendations are displayed on the dashboard and within the analysis tools, helping users make informed decisions based on the current market scenario.
 
-   ![Technical Analysis System](preview/img/d-12.png)
+   ![Technical Analysis System](preview/img/l-12.png)
 
 ---
 
