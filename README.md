@@ -27,7 +27,7 @@ kTrade is a web-based platform designed to provide advanced analysis tools for t
 
 ---
 
-## Tech Stack
+## Used Tech Stack
 
 kTrade is built using the following technologies:
 
