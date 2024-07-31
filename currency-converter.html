@@ -8,6 +8,8 @@
   <title>Crypo</title>
   <link rel="icon" href="assets/img/favicon.png" type="image/x-icon">
   <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/currency-converter.css">
+  
 </head>
 
 <body>
@@ -64,7 +66,7 @@
             </div>
           </li>
         </ul>
-
+        
         <ul class="navbar-nav ml-auto">
           <li class="nav-item header-custom-icon">
             <a class="nav-link" href="#" id="clickFullscreen">
@@ -190,37 +192,52 @@
   <div class="container-fluid mtb15">
     <div class="row">
       <div class="col-md-12">
-        <!-- TradingView Widget BEGIN -->
-        <div class="tradingview-widget-container">
-          <div class="tradingview-widget-container__widget"></div>
-          <script type="text/javascript" src="external-embedding/embed-widget-forex-heat-map.js" async="">
-              {
-                "width": "100%",
-                  "height": 900,
-                    "currencies": [
-                      "EUR",
-                      "USD",
-                      "JPY",
-                      "GBP",
-                      "CHF",
-                      "AUD",
-                      "CAD",
-                      "NZD",
-                      "SEK",
-                      "NOK",
-                      "DKK",
-                      "HKD"
-                    ],
-                      "isTransparent": false,
-                        "colorTheme": "light",
-                          "locale": "en"
-              }
-            </script>
-        </div>
-        <!-- TradingView Widget END -->
-      </div>
-    </div>
-  </div>
+       
+        <iframe
+  title="fx"
+  src="https://wise.com/gb/currency-converter/fx-widget/converter?sourceCurrency=USD&targetCurrency=EUR"
+  height=490
+  width=100%
+  frameBorder="0"
+  allowtransparency="false"
+></iframe>
+  <script>
+    const frames = document.querySelectorAll('iframe');
+    const widgetFrame = frames[frames.length - 1];
+    window.addEventListener('message', message => {
+      if (message.source !== widgetFrame.contentWindow) {
+      return;
+      }
+      widgetFrame.setAttribute('height', message.data.height);
+    });
+  </script>
+
+  <!--   -->
+      <iframe
+    title="fx"
+    src="https://wise.com/gb/currency-converter/fx-widget/chart?sourceCurrency=USD&targetCurrency=EUR"
+    height=570
+    width=370
+    lenght=1000
+    frameBorder="0"
+    allowtransparency="true">
+    </iframe>
+
+    <iframe
+  title="fx"
+  src="https://wise.com/gb/currency-converter/fx-widget/table?sourceCurrency=USD&targetCurrencies=EUR%2CAOA%2CGBP%2CINR%2CBWP%2CZAR"
+  height=570
+  width=370
+  frameBorder="0"
+  allowtransparency="true">
+</iframe>
+</div>
+</div>
+</div>
+
+
+  
+      
 
   <script src="assets/js/jquery-3.4.1.min.js"></script>
   <script src="assets/js/popper.min.js"></script>
