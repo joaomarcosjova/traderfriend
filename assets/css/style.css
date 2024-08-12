@@ -1,5 +1,4 @@
-﻿@import url("../../css-1");
-@import url("bootstrap.min.css");
+﻿@import url("bootstrap.min.css");
 @import url("ionicons.min.css");
 @import url("jquery.mCustomScrollbar.min.css");
 
@@ -280,7 +279,6 @@ tbody tr:hover {
 
 header nav a {
     color: #18214d;
-    font-family: 'Roboto';
 }
 
 header nav a:hover {
